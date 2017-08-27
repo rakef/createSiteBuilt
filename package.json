@@ -1,0 +1,24 @@
+{
+  "name": "sitebuilderbuilt",
+  "version": "1.0.0",
+  "description": "farm",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakef/createSiteBuilt.git"
+  },
+  "keywords": [
+    "farm",
+    "wix",
+    "money"
+  ],
+  "author": "rakefet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakef/createSiteBuilt/issues"
+  },
+  "homepage": "https://github.com/rakef/createSiteBuilt#readme"
+}
